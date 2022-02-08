@@ -47,7 +47,8 @@
         @enderror
     </div>
     <br><br>
-    <input type="submit" class="btn btn-success" value="Submit" >          
+    <input type="submit" class="btn btn-success" value="Submit" >   
+    <a style="text-decoration: none;" href="#" class="link-primary">Already have a account? Click here.</a>       
 </form>
 
 @endsection
